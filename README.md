@@ -5,7 +5,7 @@ Looking at existing data of Citibike in NYC in the month of August, we are tryin
 ## Results
 The visualizations can be seen in the tableau story linked below: 
 
-[link to story](https://public.tableau.com/views/Moudle14challenge/CitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[link to story](https://public.tableau.com/views/Moudle14challenge/CitibikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
  - On the first page you can see the total number of rides taken along with breakdown of percentage of subscribers and gender. 
  - The second page shows the number of trips by trip duration
